@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API and trying to access the camera features on a device that does not have a camera.  The app crashes or throws an error because it cannot access the camera hardware.  This is particularly problematic on simulators or devices without cameras.
